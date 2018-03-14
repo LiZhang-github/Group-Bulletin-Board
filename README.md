@@ -19,3 +19,8 @@
   - [Nvidia DGX-1](http://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/dgx-1.html)
 
    Please contact Twin Karmakharm (t.karmakharm@sheffield.ac.uk) or RSE group (rse@shef.ac.uk) for requesting access.
+   
+   -*File bocs.hpc.shef.arowsing and file transfer access to remote and local Linux/Unix servers
+   
+     http://wrgrid.group.shef.ac.uk/ubuntu/fileunix.html
+
